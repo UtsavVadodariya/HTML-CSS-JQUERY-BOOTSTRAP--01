@@ -1,0 +1,57 @@
+.navbar-brand img{
+    height: 65px;
+    width: 185px;
+    margin-left: 5%;
+}
+.navbar-brand{
+    margin-left: 8%;
+}
+.navbar-nav{
+    margin-left: 10%;
+}
+.nav-item{
+    margin-left: 10%;
+    font-size: 18px;
+    font-family: 'Fredoka', sans-serif;
+}
+.nav-link{
+    font-family: 'Fredoka', sans-serif;
+    color: #000000;
+}
+.row{
+    height: 650px;
+    width: 100%;
+}
+.col{
+    height: 100%;
+    width: 100%;
+    padding-top: 14%;
+    
+}
+.co{
+    background-image: url(https://winsfolio.net/html/foodio/assets/img/hero-4.jpg);
+    background-size: 110% 100%;
+}
+.col h1{
+    font-family: 'Fredoka', sans-serif;
+    color: white;
+    margin-left: 7.5%;
+}
+.col h2{
+    font-size: 120px;
+    color: #FFD40D;
+    font-family: 'Fredoka', sans-serif;
+    position: relative;
+    top: -30px;
+    margin-left: 7.0%;
+
+}
+.col h3{
+    font-size: 30px;
+    color: white;
+    font-family: 'Fredoka', sans-serif;
+    position: relative;
+    top: -30px;
+    margin-left: 7.5%;
+
+}
